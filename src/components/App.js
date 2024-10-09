@@ -15,7 +15,7 @@ const App = () => {
 
         {/* Do not remove the main div */}
 
-      <p>{text && `Hello ${text}`}</p>
+      <p>{text && `Hello ${text}!`}</p>
     </div>
   )
 }
